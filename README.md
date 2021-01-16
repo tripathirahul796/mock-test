@@ -24,8 +24,11 @@ Go to project directory (GitHub repository) where 'manage.py' file exist.
 Copy 'YourEnvironmentName' folder to the 'GitHub repository'.
 
 Active virtual environment:
+
 :~$ cd YourEnvironmentName\Scripts>
+
 :~$ activate
+
 (YourEnvironmentName):~$ This '(YourEnvironmentName)' sign will be shown up if virtual environment activated successfully.
 :~$ cd../.. (exit from Scripts)
 Install all the requirements using previously opened CMD where the virtual environment was activated:
