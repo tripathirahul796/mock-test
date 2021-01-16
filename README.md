@@ -29,8 +29,10 @@ Active virtual environment:
 
 :~$ activate
 
-(YourEnvironmentName):~$ This '(YourEnvironmentName)' sign will be shown up if virtual environment activated successfully.
+(YourEnvironmentName) :~$ This '(YourEnvironmentName)' sign will be shown up if virtual environment activated successfully.
+
 :~$ cd../.. (exit from Scripts)
+
 Install all the requirements using previously opened CMD where the virtual environment was activated:
 
 (YourEnvironmentName):~$ pip install -r requirements.txt
